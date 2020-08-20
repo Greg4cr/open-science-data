@@ -1,0 +1,939 @@
+title,venue,year,citations(acm),available,reusable,functional,replicated,reproduced
+Insights from open source software supply chains (keynote),ESEC/FSE 2019,2019,0,0,0,0,0,0
+Safety and robustness for deep learning with provable guarantees (keynote),ESEC/FSE 2019,2019,0,0,0,0,0,0
+Living with feature interactions (keynote),ESEC/FSE 2019,2019,0,0,0,0,0,0
+Empirical study of customer communication problem in agile requirements engineering,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Context-aware test case adaptation,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Rethinking Regex engines to address ReDoS,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Using software testing to repair models,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Suggesting reviewers of software artifacts using traceability graphs,ESEC/FSE 2019,2019,1,0,0,0,0,0
+On the scalable dynamic taint analysis for distributed systems,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Tackling knowledge needs during software evolution,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Are existing code smells relevant in web games? an empirical study,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Static deep neural network analysis for robustness,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Test-related factors and post-release defects: an empirical study,ESEC/FSE 2019,2019,0,0,0,0,0,0
+On the use of lambda expressions in 760 open source Python projects,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Tuning backfired? not (always) your fault: understanding and detecting configuration-related performance bugs,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Analysing socio-technical congruence in the package dependency network of Cargo,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Finding the shortest path to reproduce a failure found by TESTAR,ESEC/FSE 2019,2019,1,0,0,0,0,0
+A graph-based framework for analysing the design of smart contracts,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Understanding source code comments at large-scale,ESEC/FSE 2019,2019,0,0,0,0,0,0
+An industrial application of test selection using test suite diagnosability,ESEC/FSE 2019,2019,0,0,0,0,0,0
+The lessons software engineers can extract from painters to improve the software development process,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Efficient computing in a safe environment,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Reducing the workload of the Linux kernel maintainers: multiple-committer model,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Employing different program analysis methods to study bug evolution,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Automated patch porting across forked projects,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Identifying the most valuable developers using artifact traceability graphs,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Recommending related functions from API usage-based function clone structures,ESEC/FSE 2019,2019,0,0,0,0,0,0
+File tracing by intercepting disk requests,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Machine learning-assisted performance testing,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Software clusterings with vector semantics and the call graph,ESEC/FSE 2019,2019,0,0,0,0,0,0
+On extending single-variant model transformations for reuse in software product line engineering,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Machine-learning supported vulnerability detection in source code,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Improving requirements engineering practices to support experimentation in software startups,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Failure-driven program repair,ESEC/FSE 2019,2019,0,0,0,0,0,0
+A longitudinal field study on creation and use of domain-specific languages in industry,ESEC/FSE 2019,2019,0,0,0,0,0,0
+A taxonomy of metrics for software fault prediction,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Managing the open cathedral,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Distributed execution of test cases and continuous integration,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Helping developers search and locate task-relevant information in natural language documents,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Exploratory test agents for stateful software systems,ESEC/FSE 2019,2019,0,0,0,0,0,0
+MOTSD: a multi-objective test selection tool using test suite diagnosability,ESEC/FSE 2019,2019,2,0,0,0,0,0
+AnswerBot: an answer summary generation tool based on stack overflow,ESEC/FSE 2019,2019,1,0,0,0,0,0
+VARYS: an agnostic model-driven monitoring-as-a-service framework for the cloud,ESEC/FSE 2019,2019,1,0,0,0,0,0
+PyGGI 2.0: language independent genetic improvement framework,ESEC/FSE 2019,2019,3,0,0,0,0,0
+Event trace reduction for effective bug replay of Android apps via differential GUI state analysis,ESEC/FSE 2019,2019,1,0,0,0,0,0
+CloneCognition: machine learning based code clone validation tool,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Eagle: a team practices audit framework for agile software development,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Mart: a mutant generation tool for LLVM,ESEC/FSE 2019,2019,0,0,0,0,0,0
+A dynamic taint analyzer for distributed systems,ESEC/FSE 2019,2019,0,0,0,0,0,0
+JCOMIX: a search-based tool to detect XML injection vulnerabilities in web applications,ESEC/FSE 2019,2019,0,0,0,0,0,0
+DISCOVER: detecting algorithmic complexity vulnerabilities,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Governify for APIs: SLA-driven ecosystem for API governance,ESEC/FSE 2019,2019,2,0,0,0,0,0
+EVMFuzzer: detect EVM vulnerabilities via fuzz testing,ESEC/FSE 2019,2019,3,0,0,0,0,0
+BIKER: a tool for Bi-information source based API method recommendation,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Developing secure bitcoin contracts with BitML,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Architectural decision forces at work: experiences in an industrial consultancy setting,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Industry practice of coverage-guided enterprise Linux kernel fuzzing,ESEC/FSE 2019,2019,3,0,0,0,0,0
+Code coverage at Google,ESEC/FSE 2019,2019,2,0,0,0,0,0
+When deep learning met code search,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Predicting pull request completion time: a case study on large scale cloud services,ESEC/FSE 2019,2019,0,0,0,0,0,0
+FUDGE: fuzz driver generation at scale,ESEC/FSE 2019,2019,1,0,0,0,0,0
+DeepDelta: learning to repair compilation errors,ESEC/FSE 2019,2019,1,0,0,0,0,0
+An IR-based approach towards automated integration of geo-spatial datasets in map-based software systems,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Model checking a C++ software framework: a case study,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Using microservices for non-intrusive customization of multi-tenant SaaS,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Design thinking in practice: understanding manifestations of design thinking in software engineering,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Predicting breakdowns in cloud services (with SPIKE),ESEC/FSE 2019,2019,0,0,0,0,0,0
+WhoDo: automating reviewer suggestions at scale,ESEC/FSE 2019,2019,0,0,0,0,0,0
+TERMINATOR: better automated UI test case prioritization,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Evolving with patterns: a 31-month startup experience report,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Design diagrams as ontological source,ESEC/FSE 2019,2019,0,0,0,0,0,0
+The role of limitations and SLAs in the API industry,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Evaluating model testing and model checking for finding requirements violations in Simulink models,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Risks and assets: a qualitative study of a software ecosystem in the mining industry,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Bridging the gap between ML solutions and their business requirements using feature interactions,ESEC/FSE 2019,2019,1,0,0,0,0,0
+FinExpert: domain-specific test generation for FinTech systems,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Preference-wise testing for Android applications,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Decomposing the rationale of code commits: the software developer’s perspective,ESEC/FSE 2019,2019,0,1,0,0,0,0
+Releasing fast and slow: an exploratory case study at ING,ESEC/FSE 2019,2019,0,0,0,0,0,0
+SEntiMoji: an emoji-powered learning approach for sentiment analysis in software engineering,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Ethnographic research in software engineering: a critical review and checklist,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Cerebro: context-aware adaptive fuzzing for effective vulnerability detection,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Principles of feature modeling,ESEC/FSE 2019,2019,3,0,0,0,0,0
+Symbolic execution-driven extraction of the parallel execution plans of Spark applications,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Storm: program reduction for testing and debugging probabilistic programming systems,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Generating query-specific class API summaries,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Diversity-based web test generation,ESEC/FSE 2019,2019,3,0,0,0,0,0
+Achilles’ heel of plug-and-Play software architectures: a grounded theory based approach,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Effects of explicit feature traceability on program comprehension,ESEC/FSE 2019,2019,6,1,0,0,0,0
+An empirical study of real-world variability bugs detected by variability-oblivious tools,ESEC/FSE 2019,2019,0,1,1,0,0,0
+Locating vulnerabilities in binaries via memory layout recovering,ESEC/FSE 2019,2019,2,0,0,0,0,0
+A framework for writing trigger-action todo comments in executable format,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Concolic testing with adaptively changing search heuristics,ESEC/FSE 2019,2019,1,0,0,0,0,0
+A learning-based approach for automatic construction of domain glossary from source code and documentation,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Exploring and exploiting the correlations between bug-inducing and bug-fixing commits,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Latent error prediction and fault localization for microservice applications by learning from system trace logs,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Effective error-specification inference via domain-knowledge expansion,ESEC/FSE 2019,2019,1,1,1,0,0,0
+AggrePlay: efficient record and replay of multi-threaded programs,ESEC/FSE 2019,2019,1,0,0,0,0,0
+REINAM: reinforcement learning for input-grammar inference,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Compiler bug isolation via effective witness test program generation,ESEC/FSE 2019,2019,7,0,0,0,0,0
+Binary reduction of dependency graphs,ESEC/FSE 2019,2019,1,1,1,0,0,0
+A comprehensive study on deep learning bug characteristics,ESEC/FSE 2019,2019,0,0,0,0,0,0
+DeepStellar: model-based quantitative analysis of stateful deep learning systems,ESEC/FSE 2019,2019,11,0,0,0,0,0
+White-box testing of big data analytics with complex user-defined functions,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Phoenix: automated data-driven synthesis of repairs for static analysis violations,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Maximal multi-layer specification synthesis,ESEC/FSE 2019,2019,2,0,0,0,0,0
+ServDroid: detecting service usage inefficiencies in Android applications,ESEC/FSE 2019,2019,0,0,0,0,0,0
+The review linkage graph for code review analytics: a recovery approach and empirical study,ESEC/FSE 2019,2019,1,1,0,0,0,0
+Web test dependency detection,ESEC/FSE 2019,2019,3,0,0,0,0,0
+Assessing the quality of the steps to reproduce in bug reports,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Java reflection API: revealing the dark side of the mirror,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Understanding flaky tests: the developer’s perspective,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Bisecting commits and modeling commit risk during testing,ESEC/FSE 2019,2019,1,0,0,0,0,0
+On using machine learning to identify knowledge in API reference documentation,ESEC/FSE 2019,2019,1,1,0,0,0,0
+Generating effective test cases for self-driving cars from police reports,ESEC/FSE 2019,2019,3,0,0,0,0,0
+The importance of accounting for real-world labelling when predicting software vulnerabilities,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Model-based testing of breaking changes in Node.js libraries,ESEC/FSE 2019,2019,0,0,1,0,0,0
+Going big: a large-scale study on what big data developers ask,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Automatically detecting missing cleanup for ungraceful exits,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Black box fairness testing of machine learning models,ESEC/FSE 2019,2019,1,0,0,0,0,0
+A segmented memory model for symbolic execution,ESEC/FSE 2019,2019,2,1,1,0,0,0
+iFixR: bug report driven program repair,ESEC/FSE 2019,2019,4,1,1,0,0,0
+Target-driven compositional concolic testing with function summary refinement for effective bug detection,ESEC/FSE 2019,2019,2,0,0,0,0,0
+Nodest: feedback-driven static analysis of Node.js applications,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Finding and understanding bugs in software model checkers,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Robust log-based anomaly detection on unstable log data,ESEC/FSE 2019,2019,3,0,0,0,0,0
+Boosting operational DNN testing efficiency through conditioning,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Semantic relation based expansion of abbreviations,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Lifting Datalog-based analyses to software product lines,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Detecting concurrency memory corruption vulnerabilities,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Monitoring-aware IDEs,ESEC/FSE 2019,2019,0,0,0,0,0,0
+iFixFlakies: a framework for automatically fixing order-dependent flaky tests,ESEC/FSE 2019,2019,0,0,0,0,0,0
+SAR: learning cross-language API mappings with little knowledge,ESEC/FSE 2019,2019,0,1,1,0,0,0
+Pinpointing performance inefficiencies in Java,ESEC/FSE 2019,2019,1,0,0,0,0,0
+A conceptual replication of continuous integration pain points in the context of Travis CI,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Just fuzz it: solving floating-point constraints using coverage-guided fuzzing,ESEC/FSE 2019,2019,2,1,0,0,0,0
+Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors,ESEC/FSE 2019,2019,4,1,1,0,0,0
+NullAway: practical type-based null safety for Java,ESEC/FSE 2019,2019,0,1,1,0,0,0
+What the fork: a study of inefficient and efficient forking practices in social coding,ESEC/FSE 2019,2019,1,0,0,0,0,0
+A large-scale empirical study of compiler errors in continuous integration,ESEC/FSE 2019,2019,0,0,0,0,0,0
+How bad can a bug get? an empirical analysis of software failures in the OpenStack cloud computing platform,ESEC/FSE 2019,2019,1,1,1,0,0,0
+Together strong: cooperative Android app analysis,ESEC/FSE 2019,2019,0,1,0,0,0,0
+Towards more efficient meta-heuristic algorithms for combinatorial test generation,ESEC/FSE 2019,2019,0,0,0,0,0,0
+Mitigating power side channels during compilation,ESEC/FSE 2019,2019,2,0,0,0,0,0
+A statistics-based performance testing methodology for cloud applications,ESEC/FSE 2019,2019,3,1,1,0,0,0
+Empirical review of Java program repair tools: a large-scale experiment on 2141 bugs and 23551 repair attempts,ESEC/FSE 2019,2019,1,1,1,0,0,0
+Testing scratch programs automatically,ESEC/FSE 2019,2019,1,0,0,0,0,0
+Why aren’t regular expressions a lingua franca? an empirical study on the re-use and portability of regular expressions,ESEC/FSE 2019,2019,2,1,1,0,0,0
+Concolic testing for models of state-based systems,ESEC/FSE 2019,2019,1,0,1,0,0,0
+Understanding GCC builtins to develop better tools,ESEC/FSE 2019,2019,0,1,1,0,0,0
+Ten years of hunting for similar code for fun and profit (keynote),ESEC/FSE 2018,2018,0,0,0,0,0,0
+Behind every great deep learning framework is an even greater programming languages concept (keynote),ESEC/FSE 2018,2018,2,0,0,0,0,0
+Efficient static checking of library updates,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Modeling and testing a family of surgical robots: an experience report,ESEC/FSE 2018,2018,3,0,0,0,0,0
+FACTS: automated black-box testing of FinTech systems,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Automated refactoring of nested-IF formulae in spreadsheets,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Testing and validating end user programmed calculated fields,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Design and validation of precooked developer dashboards,ESEC/FSE 2018,2018,4,0,0,0,0,0
+The impact of failing flaky and high failure tests on the number of crash reports associated with Firefox builds,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Building lean continuous integration and delivery pipelines by applying DevOps principles: a case study at Varidesk,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Regression test selection for TizenRT,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Software development challenges with air-gap isolation,ESEC/FSE 2018,2018,1,0,0,0,0,0
+PAFL: extend fuzzing optimizations of single mode to industrial parallel mode,ESEC/FSE 2018,2018,8,0,0,0,0,0
+VulSeeker-pro: enhanced semantic learning based binary vulnerability seeker with emulation,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Are mobile banking apps secure? what can be improved?,ESEC/FSE 2018,2018,6,0,0,0,0,0
+Diversity and decorum in open source communities,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Mining error-handling specifications for systems software,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Bugs in the wild: examining the effectiveness of static analyzers at finding real-world bugs,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Dara: hybrid model checking of distributed systems,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Feature-interaction aware configuration prioritization,ESEC/FSE 2018,2018,0,0,0,0,0,0
+How Dance(Sport) can help to produce better software,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Reshaping distributed agile and adaptive development environment,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Type migration in large-scale code bases,ESEC/FSE 2018,2018,0,0,0,0,0,0
+On the adoption of neural networks in modeling software reliability,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Towards learning-augmented languages,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Automated scenario-based integration testing of distributed systems,ESEC/FSE 2018,2018,0,0,0,0,0,0
+How do developers resolve merge conflicts? an investigation into the processes tools and improvements,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Quality assurance automation in autonomous systems,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Intelligent bug fixing with software bug knowledge graph,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Semantic inference from natural language privacy policies and Android code,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Moving towards objective measures of program comprehension,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Automated support for mobile application testing and maintenance,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Practices and tools for better software testing,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Operationalizing human values in software: a research roadmap,ESEC/FSE 2018,2018,7,0,0,0,0,0
+Towards quantifying the development value of code contributions,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Salient-class location: help developers understand code change in code review,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Towards counterexample-guided k-induction for fast bug detection,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Software engineering collaboratories (SEClabs) and collaboratories as a service (CaaS),ESEC/FSE 2018,2018,0,0,0,0,0,0
+Software fairness,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Beyond testing configurable systems: applying variational execution to automatic program repair and higher order mutation testing,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Towards data-driven vulnerability prediction for requirements,ESEC/FSE 2018,2018,1,0,0,0,0,0
+DLFuzz: differential fuzzing testing of deep learning systems,ESEC/FSE 2018,2018,16,0,0,0,0,0
+How are spreadsheet templates used in practice: a case study on Enron,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Does ACM’s code of ethics change ethical decision making in software development?,ESEC/FSE 2018,2018,13,0,0,0,0,0
+On the naturalness of proofs,ESEC/FSE 2018,2018,2,0,0,0,0,0
+The case for experiment-oriented computing,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Gamifying static analysis,ESEC/FSE 2018,2018,0,0,0,0,0,0
+SketchFix: a tool for automated program repair approach using lazy candidate generation,ESEC/FSE 2018,2018,4,0,0,0,0,0
+WarningsGuru: integrating statistical bug models with static analysis to provide timely and specific bug warnings,ESEC/FSE 2018,2018,0,0,0,0,0,0
+PyDriller: Python framework for mining software repositories,ESEC/FSE 2018,2018,9,0,0,0,0,0
+DSM: a specification mining tool using recurrent neural network based language model,ESEC/FSE 2018,2018,1,0,0,0,0,0
+EClone: detect semantic clones in Ethereum via symbolic transaction sketch,ESEC/FSE 2018,2018,5,0,0,0,0,0
+INFAR: insight extraction from app reviews,ESEC/FSE 2018,2018,2,0,0,0,0,0
+ASketch: a sketching framework for Alloy,ESEC/FSE 2018,2018,5,0,0,0,0,0
+FOT: a versatile configurable extensible fuzzing framework,ESEC/FSE 2018,2018,5,0,0,0,0,0
+Vista: web test repair using computer vision,ESEC/FSE 2018,2018,3,0,0,0,0,0
+A formal verification tool for Ethereum VM bytecode,ESEC/FSE 2018,2018,14,0,0,0,0,0
+Themis: automatically testing software for discrimination,ESEC/FSE 2018,2018,4,0,0,0,0,0
+PowerStation: automatically detecting and fixing inefficiencies of database-backed web applications in IDE,ESEC/FSE 2018,2018,5,0,0,0,0,0
+AlloyInEcore: embedding of first-order relational logic into meta-object facility for automated model reasoning,ESEC/FSE 2018,2018,1,0,0,0,0,0
+VT-revolution: interactive programming tutorials made possible,ESEC/FSE 2018,2018,1,0,0,0,0,0
+BigSift: automated debugging of big data analytics in data-intensive scalable computing,ESEC/FSE 2018,2018,4,0,0,0,0,0
+Augmenting stack overflow with API usage patterns mined from GitHub,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Code vectors: understanding programs through embedded abstracted symbolic traces,ESEC/FSE 2018,2018,7,0,0,1,0,0
+Bug synthesis: challenging bug-finding tools with deep faults,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Identifying impactful service system problems via log analysis,ESEC/FSE 2018,2018,9,0,0,0,0,0
+MODE: automated neural network model debugging via state differential analysis and input selection,ESEC/FSE 2018,2018,5,0,0,0,0,0
+Performance comprehension at WiredTiger,ESEC/FSE 2018,2018,2,0,0,0,0,0
+What makes a code change easier to review: an empirical investigation on code change reviewability,ESEC/FSE 2018,2018,8,0,0,0,0,0
+MemFix: static analysis-based repair of memory deallocation errors for C,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Verifying the long-run behavior of probabilistic system models in the presence of uncertainty,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Testing multithreaded programs via thread speed control,ESEC/FSE 2018,2018,4,0,0,0,0,0
+Stochastic energy optimization for mobile GPS applications,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Large-scale study of substitutability in the presence of effects,ESEC/FSE 2018,2018,0,1,1,1,0,0
+Learning to sample: exploiting similarities across environments to learn performance models for configurable systems,ESEC/FSE 2018,2018,7,0,0,0,0,0
+Detection of energy inefficiencies in Android wear watch faces,ESEC/FSE 2018,2018,3,1,0,1,0,0
+How well are regular expressions tested in the wild?,ESEC/FSE 2018,2018,6,0,0,0,0,0
+CloudRaid: hunting concurrency bugs in the cloud via log-mining,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Putback-based bidirectional model transformations,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Using finite-state models for log differencing,ESEC/FSE 2018,2018,2,0,0,0,0,0
+DeepSim: deep learning code functional similarity,ESEC/FSE 2018,2018,9,0,0,0,0,0
+Modify enhance select: co-evolution of combinatorial models and test plans,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Neural-augmented static analysis of Android communication,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Improving IR-based bug localization with context-aware query reformulation,ESEC/FSE 2018,2018,6,1,1,1,0,0
+Parameterized model counting for string and numeric constraints,ESEC/FSE 2018,2018,6,1,0,1,0,0
+Visual web test repair,ESEC/FSE 2018,2018,10,0,0,0,0,0
+Ecosystem-level determinants of sustained activity in open-source projects: a case study of the PyPI ecosystem,ESEC/FSE 2018,2018,10,0,1,1,0,0
+Towards a theory of software development expertise,ESEC/FSE 2018,2018,10,1,1,1,0,0
+Predicting Node failure in cloud service systems,ESEC/FSE 2018,2018,5,0,0,0,0,0
+Path-based function embedding and its application to error-handling specification mining,ESEC/FSE 2018,2018,12,1,1,1,0,0
+Which generated test failures are fault revealing? prioritizing failures based on inferred precondition violations using PAF,ESEC/FSE 2018,2018,0,0,0,0,0,0
+Testing probabilistic programming systems,ESEC/FSE 2018,2018,6,0,0,0,0,0
+Do the dependency conflicts in my project matter?,ESEC/FSE 2018,2018,5,1,1,1,0,0
+AppFlow: using machine learning to synthesize robust reusable UI tests,ESEC/FSE 2018,2018,4,0,0,0,0,0
+Be careful of when: an empirical study on time-related misuse of issue tracking data,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Optimizing test prioritization via test distribution analysis,ESEC/FSE 2018,2018,2,0,0,0,0,0
+A novel automated approach for software effort estimation based on data augmentation,ESEC/FSE 2018,2018,4,0,0,0,0,0
+Deep learning type inference,ESEC/FSE 2018,2018,13,0,0,0,0,0
+Applications of psychological science for actionable analytics,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Symbolic execution with existential second-order constraints,ESEC/FSE 2018,2018,7,0,0,0,0,0
+Concurrency verification with maximal path causality,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes,ESEC/FSE 2018,2018,1,0,0,0,0,0
+Model transformation languages under a magnifying glass: a controlled experiment with Xtend ATL and QVT,ESEC/FSE 2018,2018,4,0,0,0,0,0
+FraudDroid: automated ad fraud detection for Android apps,ESEC/FSE 2018,2018,16,0,0,0,0,0
+Winning the app production rally,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Darwinian data structure selection,ESEC/FSE 2018,2018,1,0,0,0,0,0
+RefiNym: using names to refine types,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Scalability-first pointer analysis with self-tuning context-sensitivity,ESEC/FSE 2018,2018,5,1,0,1,0,0
+How should compilers explain problems to developers?,ESEC/FSE 2018,2018,4,0,0,0,0,0
+Singularity: pattern fuzzing for worst case complexity,ESEC/FSE 2018,2018,4,1,0,0,1,0
+Practical AJAX race detection for JavaScript web applications,ESEC/FSE 2018,2018,2,1,1,1,0,0
+Feedback-directed differential testing of interactive debuggers,ESEC/FSE 2018,2018,5,1,1,1,0,0
+Complementing global and local contexts in representing API descriptions to improve API retrieval tasks,ESEC/FSE 2018,2018,3,0,0,0,0,0
+Phys: probabilistic physical unit assignment and inconsistency detection,ESEC/FSE 2018,2018,1,1,1,1,0,0
+Syntax-guided synthesis of Datalog programs,ESEC/FSE 2018,2018,8,1,0,1,0,0
+One size does not fit all: an empirical study of containerized continuous deployment workflows,ESEC/FSE 2018,2018,5,0,0,0,0,0
+NAR-miner: discovering negative association rules from code for bug detection,ESEC/FSE 2018,2018,2,0,0,0,0,0
+Detecting speech act types in developer question/answer conversations during bug repair,ESEC/FSE 2018,2018,4,0,0,0,0,0
+An empirical study on crash recovery bugs in large-scale distributed systems,ESEC/FSE 2018,2018,6,0,0,0,0,0
+Do Android taint analysis tools keep their promises?,ESEC/FSE 2018,2018,11,1,1,1,0,0
+Adversarial symbolic execution for detecting concurrency-related cache timing leaks,ESEC/FSE 2018,2018,8,1,1,1,0,0
+The impact of regular expression denial of service (ReDoS) in practice: an empirical study at the ecosystem scale,ESEC/FSE 2018,2018,8,1,1,1,0,0
+Oreo: detection of clones in the twilight zone,ESEC/FSE 2018,2018,14,1,1,1,0,0
+Data race detection on compressed traces,ESEC/FSE 2018,2018,3,1,1,1,0,0
+RGSE: a regular property guided symbolic executor for Java,ESEC/FSE 2017,2017,1,0,0,0,0,0
+The MONDO collaboration framework: secure collaborative modeling over existing version control systems,ESEC/FSE 2017,2017,7,0,0,0,0,0
+CLTSA: labelled transition system analyser with counting fluent support,ESEC/FSE 2017,2017,0,0,0,0,0,0
+From scenario modeling to scenario programming for reactive systems with dynamic topology,ESEC/FSE 2017,2017,1,0,0,0,0,0
+DynAlloy analyzer: a tool for the specification and analysis of alloy models with dynamic behaviour,ESEC/FSE 2017,2017,3,0,0,0,0,0
+A tool for automated reasoning about traces based on configurable formal semantics,ESEC/FSE 2017,2017,4,0,0,0,0,0
+ARCC: assistant for repetitive code comprehension,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Model-based privacy and security analysis with CARiSMA,ESEC/FSE 2017,2017,12,0,0,0,0,0
+JoanAudit: a tool for auditing common injection vulnerabilities,ESEC/FSE 2017,2017,3,0,0,0,0,0
+RunDroid: recovering execution call graphs for Android applications,ESEC/FSE 2017,2017,2,0,0,0,0,0
+XSearch: a domain-specific cross-language relevant question retrieval tool,ESEC/FSE 2017,2017,4,0,0,0,0,0
+VART: a tool for the automatic detection of regression faults,ESEC/FSE 2017,2017,0,0,0,0,0,0
+Cherry-picking of code commits in long-running multi-release software,ESEC/FSE 2017,2017,0,0,0,0,0,0
+QEMU-based framework for non-intrusive virtual machine instrumentation and introspection,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Reflections on the REST architectural style and principled design of the modern web architecture (impact paper award),ESEC/FSE 2017,2017,21,0,0,0,0,0
+Improving performance of automatic program repair using learned heuristics,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Automating traceability link recovery through classification,ESEC/FSE 2017,2017,1,0,0,0,0,0
+Detecting wearable app permission mismatches: a case study on Android wear,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Reasons and drawbacks of using trivial npm packages: the developers' perspective,ESEC/FSE 2017,2017,1,0,0,0,0,0
+DecisionDroid: a supervised learning-based system to identify cloned Android applications,ESEC/FSE 2017,2017,0,0,0,0,0,0
+FOSS version differentiation as a benchmark for static analysis security testing tools,ESEC/FSE 2017,2017,0,0,0,0,0,0
+Practical symbolic verification of regular properties,ESEC/FSE 2017,2017,0,0,0,0,0,0
+Suggesting meaningful variable names for decompiled code: a machine translation approach,ESEC/FSE 2017,2017,1,0,0,0,0,0
+Software engineering research results in industrial practice: a tale of two projects (invited talk),ESEC/FSE 2017,2017,0,0,0,0,0,0
+The rising tide lifts all boats: the advancement of science in cyber security (invited talk),ESEC/FSE 2017,2017,0,0,0,0,0,0
+Verifying the forecast: how climate models are developed and tested (invited talk),ESEC/FSE 2017,2017,0,0,0,0,0,0
+System performance optimization via design and configuration space exploration,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Model-based dynamic software project scheduling,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Summarizing software engineering communication artifacts from different sources,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Application of search-based software engineering methodologies for test suite optimization and evolution in mission critical mobile application development,ESEC/FSE 2017,2017,1,0,0,0,0,0
+On the similarity of software development documentation,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Recommender system for model driven software development,ESEC/FSE 2017,2017,1,0,0,0,0,0
+User- and analysis-driven context aware software development in mobile computing,ESEC/FSE 2017,2017,3,0,0,0,0,0
+DRACO: discovering refactorings that improve architecture using fine-grained co-change dependencies,ESEC/FSE 2017,2017,0,0,0,0,0,0
+Using search-based software engineering to handle the changes with uncertainties for self-adaptive systems,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Strong agile metrics: mining log data to determine predictive power of software metrics for continuous delivery teams,ESEC/FSE 2017,2017,2,0,0,0,0,0
+What do software engineers care about? gaps between research and practice,ESEC/FSE 2017,2017,12,0,0,0,0,0
+Model-driven software engineering in practice: privacy-enhanced filtering of network traffic,ESEC/FSE 2017,2017,0,0,0,0,0,0
+Applying deep learning based automatic bug triager to industrial projects,ESEC/FSE 2017,2017,15,0,0,0,0,0
+Guidelines for adopting frontend architectures and patterns in microservices-based systems,ESEC/FSE 2017,2017,6,0,0,0,0,0
+Static analysis for optimizing big data queries,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Reference architectures and Scrum: friends or foes?,ESEC/FSE 2017,2017,1,0,0,0,0,0
+Improving understanding of dynamically typed software developed by agile practitioners,ESEC/FSE 2017,2017,1,0,0,0,0,0
+Automated identification of security issues from commit messages and bug reports,ESEC/FSE 2017,2017,9,0,0,0,0,0
+Automated testing of hybrid Simulink/Stateflow controllers: industrial case studies,ESEC/FSE 2017,2017,6,0,0,0,0,0
+Record and replay for Android: are we there yet in industrial cases?,ESEC/FSE 2017,2017,9,0,0,0,0,0
+LaChouTi: kernel vulnerability responding framework for the fragmented Android devices,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Serverless computing: economic and architectural impact,ESEC/FSE 2017,2017,17,0,0,0,0,0
+Screening heuristics for project gating systems,ESEC/FSE 2017,2017,1,0,0,0,0,0
+Natural language querying in SAP-ERP platform,ESEC/FSE 2017,2017,1,0,0,0,0,0
+When program analysis meets mobile security: an industrial study of misusing Android internet sockets,ESEC/FSE 2017,2017,2,0,0,0,0,0
+File-level vs. module-level regression test selection for .NET,ESEC/FSE 2017,2017,10,0,0,0,0,0
+S3: syntax- and semantic-guided repair synthesis via programming by examples,ESEC/FSE 2017,2017,53,0,0,0,0,0
+On evidence preservation requirements for forensic-ready systems,ESEC/FSE 2017,2017,5,0,0,0,0,0
+Craig vs. Newton in software model checking,ESEC/FSE 2017,2017,6,0,0,0,0,0
+Automatically analyzing groups of crashes for finding correlations,ESEC/FSE 2017,2017,5,0,0,0,0,0
+CodeMatch: obfuscation won't conceal your repackaged app,ESEC/FSE 2017,2017,11,0,0,0,0,0
+Generalized observational slicing for tree-represented modelling languages,ESEC/FSE 2017,2017,6,0,0,0,0,0
+Constraint normalization and parameterized caching for quantitative program analysis,ESEC/FSE 2017,2017,6,0,1,0,0,0
+Continuous variable-specific resolutions of feature interactions,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Probabilistic model checking of perturbed MDPs with applications to cloud computing,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Automatically diagnosing and repairing error handling bugs in C,ESEC/FSE 2017,2017,16,0,0,0,0,0
+Modeling and verification of evolving cyber-physical spaces,ESEC/FSE 2017,2017,10,0,0,0,0,0
+Guided stochastic model-based GUI testing of Android apps,ESEC/FSE 2017,2017,63,0,0,0,0,0
+Regression test selection across JVM boundaries,ESEC/FSE 2017,2017,13,0,0,0,0,0
+BDCI: behavioral driven conflict identification,ESEC/FSE 2017,2017,1,0,0,1,0,0
+Steelix: program-state based binary fuzzing,ESEC/FSE 2017,2017,46,0,0,0,0,0
+OASIS: prioritizing static analysis warnings for Android apps based on app user reviews,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Understanding the impact of support for iteration on code search,ESEC/FSE 2017,2017,4,0,0,0,0,0
+Reproducing concurrency failures from crash stacks,ESEC/FSE 2017,2017,9,0,0,0,0,0
+LAMP: data provenance for graph based machine learning algorithms through derivative computation,ESEC/FSE 2017,2017,7,0,0,0,0,0
+Are deep neural networks the best choice for modeling source code?,ESEC/FSE 2017,2017,47,0,0,0,0,0
+Recovering clear natural identifiers from obfuscated JS names,ESEC/FSE 2017,2017,14,0,0,0,0,0
+Measuring the cost of regression testing in practice: a study of Java projects using continuous integration,ESEC/FSE 2017,2017,23,0,0,0,0,0
+On the scalability of Linux kernel maintainers' work,ESEC/FSE 2017,2017,7,0,0,0,0,0
+Automatic generation of inter-component communication exploits for Android applications,ESEC/FSE 2017,2017,11,0,0,0,0,0
+Detecting missing information in bug descriptions,ESEC/FSE 2017,2017,27,0,0,0,0,0
+Bayesian specification learning for finding API usage errors,ESEC/FSE 2017,2017,14,0,0,0,0,0
+Kmax: finding all configurations of Kbuild makefiles statically,ESEC/FSE 2017,2017,6,0,0,0,0,0
+ARTINALI: dynamic invariant detection for cyber-physical system security,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Counterexample-guided approach to finding numerical invariants,ESEC/FSE 2017,2017,12,0,0,0,0,0
+The care and feeding of wild-caught mutants,ESEC/FSE 2017,2017,9,0,1,0,0,0
+Discovering relational specifications,ESEC/FSE 2017,2017,5,0,0,0,0,0
+Model-level platform-independent debugging in the context of the model-driven development of real-time systems,ESEC/FSE 2017,2017,12,0,0,1,0,0
+Fairness testing: testing software for discrimination,ESEC/FSE 2017,2017,39,0,0,0,0,0
+More accurate recommendations for method-level changes,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Enabling mutation testing for Android apps,ESEC/FSE 2017,2017,23,0,0,0,0,0
+Better test cases for better automated program repair,ESEC/FSE 2017,2017,24,0,0,0,0,0
+Finding near-optimal configurations in product lines by random sampling,ESEC/FSE 2017,2017,29,0,0,0,0,0
+The power of why and why not: enriching scenario exploration with provenance,ESEC/FSE 2017,2017,9,0,1,0,0,0
+Cimplifier: automatically debloating containers,ESEC/FSE 2017,2017,12,0,0,0,0,0
+Trade-offs in continuous integration: assurance security and flexibility,ESEC/FSE 2017,2017,37,0,0,0,0,0
+CodeCarbonCopy,ESEC/FSE 2017,2017,9,0,0,0,0,0
+Measuring neural efficiency of program comprehension,ESEC/FSE 2017,2017,20,0,0,0,0,0
+Why do developers use trivial packages? an empirical case study on npm,ESEC/FSE 2017,2017,27,0,0,0,0,0
+DESCRY: reproducing system-level concurrency failures,ESEC/FSE 2017,2017,7,0,0,0,0,0
+Cooperative kernels: GPU multitasking for blocking algorithms,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Understanding misunderstandings in source code,ESEC/FSE 2017,2017,7,0,0,0,0,0
+Synergistic debug-repair of heap manipulations,ESEC/FSE 2017,2017,5,0,0,0,0,0
+A feasibility study of using automated program repair for introductory programming assignments,ESEC/FSE 2017,2017,26,0,0,1,0,0
+Toward full elasticity in distributed static analysis: the case of callgraph analysis,ESEC/FSE 2017,2017,6,0,0,0,0,0
+Loopster: static loop termination analysis,ESEC/FSE 2017,2017,2,0,0,0,0,0
+Understanding the impact of refactoring on smells: a longitudinal study of 23 software projects,ESEC/FSE 2017,2017,7,0,0,0,0,0
+QTEP: quality-aware test case prioritization,ESEC/FSE 2017,2017,13,0,0,0,0,0
+Revisiting unsupervised learning for defect prediction,ESEC/FSE 2017,2017,16,0,0,0,0,0
+Easy over hard: a case study on deep learning,ESEC/FSE 2017,2017,35,0,0,0,0,0
+Where is the bug and how is it fixed? an experiment with practitioners,ESEC/FSE 2017,2017,18,0,1,0,0,0
+A fast causal profiler for task parallel programs,ESEC/FSE 2017,2017,7,1,0,1,0,0
+Automatic inference of code transforms for patch generation,ESEC/FSE 2017,2017,42,0,0,1,0,0
+Is there a mismatch between real-world feature models and product-line research?,ESEC/FSE 2017,2017,14,0,1,0,0,0
+Attributed variability models: outside the comfort zone,ESEC/FSE 2017,2017,8,0,0,0,0,0
+PATDroid: permission-aware GUI testing of Android,ESEC/FSE 2017,2017,15,0,0,1,0,0
+Failure-directed program trimming,ESEC/FSE 2017,2017,6,0,0,0,0,0
+A compiler and verifier for page access oblivious computation,ESEC/FSE 2017,2017,5,0,0,0,0,0
+Automated control of multiple software goals using multiple actuators,ESEC/FSE 2017,2017,6,0,0,0,0,0
+Why modern open source projects fail,ESEC/FSE 2017,2017,31,0,0,0,0,0
+Symbolic execution of programmable logic controller code,ESEC/FSE 2017,2017,8,0,0,0,0,0
+µDroid: an energy-aware mutation testing framework for Android,ESEC/FSE 2017,2017,21,0,0,0,0,0
+Thread-modular static analysis for relaxed memory models,ESEC/FSE 2017,2017,7,0,0,0,0,0
+AtexRace: across thread and execution sampling for in-house race detection,ESEC/FSE 2017,2017,3,0,0,0,0,0
+NoFAQ: synthesizing command repairs from examples,ESEC/FSE 2017,2017,5,0,0,0,0,0
+A symbolic justice violations transition system for unrealizable GR(1) specifications,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Adaptively generating high quality fixes for atomicity violations,ESEC/FSE 2017,2017,3,0,0,0,0,0
+Using bad learners to find good configurations,ESEC/FSE 2017,2017,25,0,0,0,0,0
+Detecting and understanding real-world differential performance bugs in machine learning libraries,ISSTA 2020,2020,0,1,0,1,0,0
+Test recommendation system based on slicing coverage filtering,ISSTA 2020,2020,0,0,0,0,0,0
+CPSDebug: a tool for explanation of failures in cyber-physical systems,ISSTA 2020,2020,0,0,0,0,0,0
+FineLock: automatically refactoring coarse-grained locks into fine-grained locks,ISSTA 2020,2020,0,0,0,0,0,0
+ProFL: a fault localization framework for Prolog,ISSTA 2020,2020,0,0,0,0,0,0
+Echidna: effective usable and fast fuzzing for smart contracts,ISSTA 2020,2020,0,0,0,0,0,0
+EShield: protect smart contracts against reverse engineering,ISSTA 2020,2020,0,0,0,0,0,0
+TauJud: test augmentation of machine learning in judicial documents,ISSTA 2020,2020,0,0,0,0,0,0
+Crowdsourced requirements generation for automatic testing via knowledge graph,ISSTA 2020,2020,0,0,0,0,0,0
+ObjSim: lightweight automatic patch prioritization via object similarity,ISSTA 2020,2020,0,0,0,0,0,0
+Automatic support for the identification of infeasible testing requirements,ISSTA 2020,2020,0,0,0,0,0,0
+Program-aware fuzzing for MQTT applications,ISSTA 2020,2020,0,0,0,0,0,0
+Automated mobile apps testing from visual perspective,ISSTA 2020,2020,0,0,0,0,0,0
+Escaping dependency hell: finding build dependency errors with the unified dependency graph,ISSTA 2020,2020,0,0,0,0,0,0
+Feasible and stressful trajectory generation for mobile robots,ISSTA 2020,2020,0,1,1,1,0,0
+Automated repair of feature interaction failures in automated driving systems,ISSTA 2020,2020,0,0,0,0,0,0
+How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection,ISSTA 2020,2020,0,1,0,1,0,0
+Learning to detect table clones in spreadsheets,ISSTA 2020,2020,0,0,0,0,0,0
+Empirically revisiting and enhancing IR-based test-case prioritization,ISSTA 2020,2020,0,0,0,0,0,0
+Testing high performance numerical simulation programs: experience lessons learned and open issues,ISSTA 2020,2020,0,0,0,0,0,0
+Debugging the performance of Maven’s test isolation: experience report,ISSTA 2020,2020,0,0,0,0,0,0
+Discovering discrepancies in numerical libraries,ISSTA 2020,2020,0,1,1,1,0,0
+Data loss detector: automatically revealing data loss bugs in Android apps,ISSTA 2020,2020,0,1,1,1,0,0
+Fast bit-vector satisfiability,ISSTA 2020,2020,0,0,0,0,0,0
+An empirical study on ARM disassembly tools,ISSTA 2020,2020,0,0,0,0,0,0
+Active fuzzing for testing and securing cyber-physical systems,ISSTA 2020,2020,0,0,0,0,0,0
+DeepSQLi: deep semantic learning for testing SQL injection,ISSTA 2020,2020,0,0,0,0,0,0
+Differential regression testing for REST APIs,ISSTA 2020,2020,0,0,0,0,0,0
+WEIZZ: automatic grey-box fuzzing for structured binary formats,ISSTA 2020,2020,0,0,0,0,0,0
+Scalable build service system with smart scheduling service,ISSTA 2020,2020,0,0,0,0,0,0
+How far we have come: testing decompilation correctness of C decompilers,ISSTA 2020,2020,0,0,0,1,0,0
+CoCoNuT: combining context-aware neural translation models using ensemble for program repair,ISSTA 2020,2020,0,0,0,0,0,0
+Identifying Java calls in native code via binary scanning,ISSTA 2020,2020,0,1,0,1,0,0
+A programming model for semi-implicit parallelization of static analyses,ISSTA 2020,2020,0,0,0,0,0,0
+Detecting flaky tests in probabilistic and machine learning applications,ISSTA 2020,2020,0,0,0,0,0,0
+Feedback-driven side-channel analysis for networked applications,ISSTA 2020,2020,0,0,0,0,0,0
+Dependent-test-aware regression testing techniques,ISSTA 2020,2020,0,0,0,0,0,0
+Relocatable addressing model for symbolic execution,ISSTA 2020,2020,0,0,0,0,0,0
+Functional code clone detection with syntax and semantics fusion learning,ISSTA 2020,2020,0,1,1,1,0,0
+Patch based vulnerability matching for binary programs,ISSTA 2020,2020,0,0,0,0,0,0
+Running symbolic execution forever,ISSTA 2020,2020,0,1,1,1,0,0
+Intermittently failing tests in the embedded systems domain,ISSTA 2020,2020,0,0,0,0,0,0
+Recovering fitness gradients for interprocedural Boolean flags in search-based testing,ISSTA 2020,2020,0,0,0,0,0,0
+DeepGini: prioritizing massive tests to enhance the robustness of deep neural networks,ISSTA 2020,2020,0,0,0,0,0,0
+Scaffle: bug localization on millions of files,ISSTA 2020,2020,0,0,0,0,0,0
+Automated classification of actions in bug reports of mobile apps,ISSTA 2020,2020,0,0,0,0,0,0
+Reinforcement learning based curiosity-driven testing of Android applications,ISSTA 2020,2020,0,0,0,0,0,0
+Detecting cache-related bugs in Spark applications,ISSTA 2020,2020,0,1,1,1,0,0
+Higher income larger loan? monotonicity testing of machine learning models,ISSTA 2020,2020,0,0,0,0,0,0
+Can automated program repair refine fault localization? a unified debugging approach,ISSTA 2020,2020,0,1,1,1,0,0
+Detecting and diagnosing energy issues for mobile applications,ISSTA 2020,2020,0,0,0,0,0,0
+Abstracting failure-inducing inputs,ISSTA 2020,2020,0,1,1,1,0,0
+Learning input tokens for effective fuzzing,ISSTA 2020,2020,0,1,0,1,0,0
+Scalable analysis of interaction threats in IoT systems,ISSTA 2020,2020,0,0,0,0,0,0
+Effective white-box testing of deep neural networks with adaptive neuron-selection strategy,ISSTA 2020,2020,0,1,1,1,0,0
+CTRAS: a tool for aggregating and summarizing crowdsourced test reports,ISSTA 2019,2019,0,0,0,0,0,0
+Ukwikora: continuous inspection for keyword-driven testing,ISSTA 2019,2019,0,0,0,0,0,0
+JQF: coverage-guided property-based testing in Java,ISSTA 2019,2019,6,0,0,0,0,0
+Androlic: an extensible flow context object field and path-sensitive static analysis framework for Android,ISSTA 2019,2019,0,0,0,0,0,0
+CoCoTest: collaborative crowdsourced testing for Android applications,ISSTA 2019,2019,0,0,0,0,0,0
+SAFEVM: a safety verifier for Ethereum smart contracts,ISSTA 2019,2019,1,0,0,0,0,0
+VBSAC: a value-based static analyzer for C,ISSTA 2019,2019,0,0,0,0,0,0
+VFQL: combinational static analysis as query language,ISSTA 2019,2019,0,0,0,0,0,0
+Go-clone: graph-embedding based clone detector for Golang,ISSTA 2019,2019,0,0,0,0,0,0
+Theory and practice of string solvers (invited talk abstract),ISSTA 2019,2019,0,0,0,0,0,0
+From typestate verification to interpretable deep models (invited talk abstract),ISSTA 2019,2019,0,0,0,0,0,0
+Some challenges for software testing research (invited talk paper),ISSTA 2019,2019,0,0,0,0,0,0
+JNI program analysis with automatically extracted C semantic summary,ISSTA 2019,2019,1,0,0,0,0,0
+On the correctness of GPU programs,ISSTA 2019,2019,0,0,0,0,0,0
+Towards scalable defense of information flow security for distributed systems,ISSTA 2019,2019,0,0,0,0,0,0
+Conditional dynamic partial order reduction and optimality results,ISSTA 2019,2019,1,0,0,0,0,0
+Identifying error code misuses in complex system,ISSTA 2019,2019,0,0,0,0,0,0
+A cost-effective strategy for software vulnerability prediction based on bellwether analysis,ISSTA 2019,2019,1,0,0,0,0,0
+A new dimension of test quality: assessing and generating higher quality unit test cases,ISSTA 2019,2019,1,0,0,0,0,0
+Mining constraints for grammar fuzzing,ISSTA 2019,2019,0,0,0,0,0,0
+Continuous software performance assessment: detecting performance problems of software libraries on every build,ISSTA 2019,2019,0,0,0,0,0,0
+Detecting memory errors at runtime with source-level instrumentation,ISSTA 2019,2019,0,0,0,0,0,0
+Search-based test and improvement of machine-learning-based anomaly detection systems,ISSTA 2019,2019,0,0,1,1,0,0
+DeepHunter: a coverage-guided fuzz testing framework for deep neural networks,ISSTA 2019,2019,10,0,0,0,0,0
+History-driven build failure fixing: how far are we?,ISSTA 2019,2019,5,0,0,0,0,0
+TBar: revisiting template-based automated program repair,ISSTA 2019,2019,4,1,0,1,0,0
+Semantic fuzzing with zest,ISSTA 2019,2019,5,1,1,1,0,0
+TestMig: migrating GUI test cases from iOS to Android,ISSTA 2019,2019,4,0,0,0,0,0
+DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization,ISSTA 2019,2019,6,1,1,1,0,0
+Assessing the state and improving the art of parallel testing for C,ISSTA 2019,2019,1,1,1,1,0,0
+Mining Android crash fixes in the absence of issue- and change-tracking systems,ISSTA 2019,2019,0,0,0,0,0,0
+Automated API-usage update for Android apps,ISSTA 2019,2019,0,1,0,1,0,0
+Root causing flaky tests in a large-scale industrial setting,ISSTA 2019,2019,2,0,0,0,0,0
+Learning user interface element interactions,ISSTA 2019,2019,3,0,0,0,0,0
+Mitigating the effects of flaky tests on mutation testing,ISSTA 2019,2019,1,1,0,0,0,0
+Interactive metamorphic testing of debuggers,ISSTA 2019,2019,2,0,0,0,0,0
+Automatically testing self-driving cars with search-based procedural content generation,ISSTA 2019,2019,4,0,0,0,0,0
+Optimal context-sensitive dynamic partial order reduction with observers,ISSTA 2019,2019,2,0,0,0,0,0
+A large-scale study of application incompatibilities in Android,ISSTA 2019,2019,0,1,0,1,0,0
+LibID: reliable identification of obfuscated third-party Android libraries,ISSTA 2019,2019,0,0,0,0,0,0
+Adlib: analyzer for mobile ad platform libraries,ISSTA 2019,2019,0,1,1,1,0,0
+Failure clustering without coverage,ISSTA 2019,2019,0,0,0,0,0,0
+Exploiting the laws of order in smart contracts,ISSTA 2019,2019,4,0,0,0,0,0
+Practical program repair via bytecode mutation,ISSTA 2019,2019,7,1,0,1,0,0
+Crash-avoiding program repair,ISSTA 2019,2019,1,0,0,0,0,0
+Sara: self-replay augmented record and replay for Android in industrial cases,ISSTA 2019,2019,1,0,0,0,0,0
+Codebase-adaptive detection of security-relevant methods,ISSTA 2019,2019,1,1,0,1,0,0
+Judge: identifying understanding and evaluating sources of unsoundness in call graphs,ISSTA 2019,2019,2,0,0,0,0,0
+Deferred concretization in symbolic execution via fuzzing,ISSTA 2019,2019,0,0,0,0,0,0
+Differentially testing soundness and precision of program analyzers,ISSTA 2019,2019,2,0,0,0,0,0
+Effective and efficient API misuse detection via exception propagation and search-based testing,ISSTA 2019,2019,0,1,1,1,0,0
+Improving random GUI testing with image-based widget detection,ISSTA 2019,2019,0,0,0,0,0,0
+QADroid: regression event selection for Android applications,ISSTA 2019,2019,0,1,1,1,0,0
+Test input generation with Java PathFinder: then and now (invited talk abstract),ISSTA 2018,2018,0,0,0,0,0,0
+Advances in the ANaConDA framework for dynamic analysis and testing of concurrent C/C++ programs,ISSTA 2018,2018,1,0,0,0,0,0
+Mutode: generic JavaScript and Node.js mutation testing tool,ISSTA 2018,2018,3,0,0,0,0,0
+OASIs: oracle assessment and improvement tool,ISSTA 2018,2018,0,0,0,0,0,0
+Managing concurrent testing of data race with ComRaDe,ISSTA 2018,2018,0,0,0,0,0,0
+MalViz: an interactive visualization tool for tracing malware,ISSTA 2018,2018,3,0,0,0,0,0
+LAND: a user-friendly and customizable test generation tool for Android apps,ISSTA 2018,2018,2,0,0,0,0,0
+piCoq: parallel regression proving for large-scale verification projects,ISSTA 2018,2018,1,0,0,0,0,0
+Deep specification mining,ISSTA 2018,2018,3,0,0,0,0,0
+Evaluating test-suite reduction in real software evolution,ISSTA 2018,2018,7,0,0,0,0,0
+PerfFuzz: automatically generating pathological inputs,ISSTA 2018,2018,22,0,0,0,0,0
+Analyzing the analyzers: FlowDroid/IccTA AmanDroid and DroidSafe,ISSTA 2018,2018,10,0,0,0,0,0
+Translating code comments to procedure specifications,ISSTA 2018,2018,6,1,1,0,0,0
+Shaping program repair space with existing patches and similar code,ISSTA 2018,2018,27,1,0,1,0,0
+Comparing developer-provided to user-provided tests for fault localization and automated program repair,ISSTA 2018,2018,5,1,0,1,0,0
+Automatically translating bug reports into test cases for mobile apps,ISSTA 2018,2018,9,0,0,0,0,0
+Badger: complexity analysis with fuzzing and symbolic execution,ISSTA 2018,2018,9,0,0,0,0,0
+Symbolic path cost analysis for side-channel detection,ISSTA 2018,2018,3,0,0,0,0,0
+An empirical study on TensorFlow program bugs,ISSTA 2018,2018,8,0,0,0,0,0
+Remove RATs from your code: automated optimization of resource inefficient database writes for mobile applications,ISSTA 2018,2018,5,1,0,1,0,0
+Static analysis of Java dynamic proxies,ISSTA 2018,2018,5,1,0,1,0,0
+Tests from traces: automated unit test extraction for R,ISSTA 2018,2018,4,1,1,0,0,0
+Exploiting community structure for floating-point precision tuning,ISSTA 2018,2018,9,0,0,0,0,0
+Search-based detection of deviation failures in the migration of legacy spreadsheet applications,ISSTA 2018,2018,0,0,0,0,0,0
+Shooting from the heap: ultra-scalable static analysis with heap snapshots,ISSTA 2018,2018,1,1,0,1,0,0
+Automated test mapping and coverage for network topologies,ISSTA 2018,2018,3,0,0,0,0,0
+Identifying implementation bugs in machine learning based image classifiers using metamorphic testing,ISSTA 2018,2018,12,0,0,0,0,0
+CiD: automating the detection of API-related compatibility issues in Android apps,ISSTA 2018,2018,14,0,0,0,0,0
+Bench4BL: reproducibility study on the performance of IR-based bug localization,ISSTA 2018,2018,7,0,0,0,0,0
+Making data-driven porting decisions with Tuscan,ISSTA 2018,2018,0,0,0,0,0,0
+Test migration for efficient large-scale assessment of mobile app coding assignments,ISSTA 2018,2018,2,0,0,0,0,0
+Practical detection of concurrency issues at coding time,ISSTA 2018,2018,0,1,0,1,0,0
+Test case prioritization for acceptance testing of cyber physical systems: a multi-objective search-based approach,ISSTA 2018,2018,6,0,0,0,0,0
+Eliminating timing side-channel leaks using program repair,ISSTA 2018,2018,17,1,0,1,0,0
+Repositioning of static analysis alarms,ISSTA 2018,2018,3,0,0,1,0,0
+Lightweight verification of array indexing,ISSTA 2018,2018,1,1,0,1,0,0
+Compiler fuzzing through deep learning,ISSTA 2018,2018,11,0,0,0,0,0
+Safe and sound program analysis with Flix,ISSTA 2018,2018,4,0,0,0,0,0
+Path cost analysis for side channel detection,ISSTA 2017,2017,0,0,0,0,0,0
+Mapping hardness of automated software testing,ISSTA 2017,2017,0,0,0,0,0,0
+Inferring page models for web application analysis,ISSTA 2017,2017,1,0,0,0,0,0
+Consistency checking in requirements analysis,ISSTA 2017,2017,6,0,0,0,0,0
+Version space learning for verification on temporal differentials,ISSTA 2017,2017,1,0,0,0,0,0
+Understanding intended behavior using models of low-level signals,ISSTA 2017,2017,0,0,0,0,0,0
+Automatically inferring and enforcing user expectations,ISSTA 2017,2017,2,0,0,0,0,0
+Oracle problem in software testing,ISSTA 2017,2017,3,0,0,0,0,0
+Data flow oriented UI testing: exploiting data flows and UI elements to test Android applications,ISSTA 2017,2017,2,0,0,0,0,0
+Dynamic tainting for automatic test case generation,ISSTA 2017,2017,1,0,0,0,0,0
+LabPal: repeatable computer experiments made easy,ISSTA 2017,2017,1,0,0,0,0,0
+Caret-HM: recording and replaying Android user sessions with heat map generation using UI state clustering,ISSTA 2017,2017,1,0,0,0,0,0
+GitcProc: a tool for processing and classifying GitHub commits,ISSTA 2017,2017,7,0,0,0,0,0
+SealTest: a simple library for test sequence generation,ISSTA 2017,2017,0,0,0,0,0,0
+Verifying digital systems with MATLAB,ISSTA 2017,2017,5,0,0,0,0,0
+ParTeCL: parallel testing using OpenCL,ISSTA 2017,2017,1,0,0,0,0,0
+ArtForm: a tool for exploring the codebase of form-based websites,ISSTA 2017,2017,1,0,0,0,0,0
+JFIX: semantics-based repair of Java programs via symbolic PathFinder,ISSTA 2017,2017,20,0,0,0,0,0
+THEMIS: a tool for decentralized monitoring algorithms,ISSTA 2017,2017,7,0,0,0,0,0
+XFix: an automated tool for the repair of layout cross browser issues,ISSTA 2017,2017,4,0,0,0,0,0
+CUT: automatic unit testing in the cloud,ISSTA 2017,2017,6,0,0,0,0,0
+ReDeCheck: an automatic layout failure checking tool for responsively designed web pages,ISSTA 2017,2017,4,0,0,0,0,0
+A suite of tools for making effective use of automatically generated tests,ISSTA 2017,2017,0,0,0,0,0,0
+Phriky-units: a lightweight annotation-free physical unit inconsistency detection tool,ISSTA 2017,2017,4,0,0,0,0,0
+Testing and analysis of web applications using page models,ISSTA 2017,2017,3,0,0,1,0,0
+Efficient computation of happens-before relation for event-driven programs,ISSTA 2017,2017,4,0,0,1,0,0
+Inferring mutant utility from program context,ISSTA 2017,2017,12,0,0,1,0,0
+Boosting spectrum-based fault localization using PageRank,ISSTA 2017,2017,20,0,0,0,0,0
+Effective online software anomaly detection,ISSTA 2017,2017,0,0,0,0,0,0
+Boosting the precision of virtual call integrity protection with partial pointer analysis for C++,ISSTA 2017,2017,11,0,0,1,0,0
+Accelerating array constraints in symbolic execution,ISSTA 2017,2017,13,0,0,1,0,0
+Generating unit tests with descriptive names or: would you name your children thing1 and thing2?,ISSTA 2017,2017,6,1,0,1,0,0
+Automated repair of layout cross browser issues using search-based techniques,ISSTA 2017,2017,15,0,0,1,0,0
+PerfRanker: prioritization of performance regression tests for collection-intensive software,ISSTA 2017,2017,7,1,0,1,0,0
+Automatic detection and validation of race conditions in interrupt-driven embedded software,ISSTA 2017,2017,8,0,0,0,0,0
+Monitoring decentralized specifications,ISSTA 2017,2017,14,1,0,1,0,0
+Lightweight detection of physical unit inconsistencies without program annotations,ISSTA 2017,2017,6,1,0,1,0,0
+Experience paper: a study on behavioral backward incompatibilities of Java software libraries,ISSTA 2017,2017,8,0,0,0,0,0
+Compiler-assisted test acceleration on GPUs for embedded software,ISSTA 2017,2017,6,0,0,0,0,0
+Refining interprocedural change-impact analysis using equivalence relations,ISSTA 2017,2017,4,0,0,0,0,0
+Identifying test-suite-overfitted patches through test case generation,ISSTA 2017,2017,27,0,0,0,0,0
+FLUCCS: using code and change metrics to improve fault localization,ISSTA 2017,2017,25,0,0,0,0,0
+An actionable performance profiler for optimizing the order of evaluations,ISSTA 2017,2017,4,0,0,0,0,0
+Combining symbolic execution and search-based testing for programs with complex heap inputs,ISSTA 2017,2017,13,1,0,1,0,0
+Faster mutation analysis via equivalence modulo states,ISSTA 2017,2017,19,0,0,0,0,0
+Impact of tool support in patch construction,ISSTA 2017,2017,10,0,0,0,0,0
+Automated layout failure detection for responsive web pages without an explicit oracle,ISSTA 2017,2017,11,0,0,0,0,0
+Targeted property-based testing,ISSTA 2017,2017,8,1,0,1,0,0
+Test execution checkpointing for web applications,ISSTA 2017,2017,2,0,0,0,0,0
+Reinforcement learning for automatic test case prioritization and selection in continuous integration,ISSTA 2017,2017,30,0,0,0,0,0
+Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications,ISSTA 2017,2017,2,0,0,0,0,0
+CPR: cross platform binary code reuse via platform independent trace program,ISSTA 2017,2017,2,0,0,0,0,0
+Improving the cost-effectiveness of symbolic testing techniques for transport protocol implementations under packet dynamics,ISSTA 2017,2017,4,0,0,1,0,0
+Just-in-time static analysis,ISSTA 2017,2017,17,1,0,1,0,0
+One test to rule them all,ISSTA 2017,2017,4,0,0,0,0,0
+Deep differential testing of JVM implementations,ICSE '19,2019,1,0,0,0,0,0
+Adversarial sample detection for deep neural network through model mutation testing,ICSE '19,2019,3,0,0,0,0,0
+Detecting incorrect build rules,ICSE '19,2019,1,1,0,0,0,0
+Leveraging artifact trees to evolve and reuse safety cases,ICSE '19,2019,0,1,1,0,0,0
+9.6 million links in source code comments: purpose evolution and decay,ICSE '19,2019,2,1,0,0,0,0
+Software documentation issues unveiled,ICSE '19,2019,0,0,0,0,0,0
+Probabilistic disassembly,ICSE '19,2019,2,0,1,0,0,0
+Gigahorse: thorough declarative decompilation of smart contracts,ICSE '19,2019,1,1,1,0,0,0
+Recovering variable names for minified code with usage contexts,ICSE '19,2019,0,0,0,0,0,0
+Dynamic slicing for Android,ICSE '19,2019,0,0,0,0,0,0
+Type migration in ultra-large-scale codebases,ICSE '19,2019,1,0,1,0,0,0
+Global optimization of numerical programs via prioritized stochastic algebraic transformations,ICSE '19,2019,0,1,0,0,0,0
+Search-based energy testing of Android,ICSE '19,2019,2,0,0,0,0,0
+GreenBundle: an empirical study on the energy impact of bundled processing,ICSE '19,2019,0,0,0,0,0,0
+DeepPerf: performance prediction for configurable software with deep sparse neural network,ICSE '19,2019,2,1,0,0,0,0
+Distance-based sampling of software configuration spaces,ICSE '19,2019,9,1,1,0,0,0
+Why does code review work for open source software communities?,ICSE '19,2019,0,0,0,0,0,0
+Test-driven code review: an empirical study,ICSE '19,2019,2,0,0,0,0,0
+FOCUS: a recommender system for mining API function calls and usage patterns,ICSE '19,2019,2,1,1,0,0,0
+Guiding deep learning system testing using surprise adequacy,ICSE '19,2019,8,1,1,0,0,0
+CRADLE: Cross-backend validation to Detect and Localize bugs in Deep learning libraries,ICSE '19,2019,1,0,0,0,0,0
+Symbolic repairs for GR(1) specifications,ICSE '19,2019,1,0,1,0,0,0
+Adjust: runtime mitigation of resource abusing third-party online ads,ICSE '19,2019,0,0,0,0,0,0
+View-centric performance optimization for database-backed web applications,ICSE '19,2019,1,1,1,0,0,0
+Redundant loads: a software inefficiency indicator,ICSE '19,2019,4,0,0,0,0,0
+Interactive production performance feedback in the IDE,ICSE '19,2019,2,0,0,0,0,0
+When code completion fails: a case study on real-world completions,ICSE '19,2019,0,0,0,0,0,0
+Why do episodic volunteers stay in FLOSS communities?,ICSE '19,2019,1,0,0,0,0,0
+Socio-technical work-rate increase associates with changes in work patterns in online projects,ICSE '19,2019,0,0,0,0,0,0
+How practitioners perceive coding proficiency,ICSE '19,2019,0,0,0,0,0,0
+iSENSE: completion-aware crowdtesting management,ICSE '19,2019,1,0,0,0,0,0
+CTRAS: crowdsourced test report aggregation and summarization,ICSE '19,2019,3,0,0,0,0,0
+SafeCheck: safety enhancement of Java unsafe API,ICSE '19,2019,1,0,0,0,0,0
+Pivot: learning API-device correlations to facilitate Android compatibility issue detection,ICSE '19,2019,0,1,1,0,0,0
+Exposing library API misuses via mutation analysis,ICSE '19,2019,2,0,0,0,0,0
+Multifaceted automated analyses for variability-intensive embedded systems,ICSE '19,2019,1,0,0,0,0,0
+Supporting the statistical analysis of variability models,ICSE '19,2019,0,1,1,0,0,0
+Intention-based integration of software variants,ICSE '19,2019,2,0,0,0,0,0
+Graph-based mining of in-the-wild fine-grained semantic code change patterns,ICSE '19,2019,0,0,0,0,0,0
+The list is the process: reliable pre-integration tracking of commits on mailing lists,ICSE '19,2019,0,1,1,0,0,0
+A neural model for generating natural language summaries of program subroutines,ICSE '19,2019,0,0,0,0,0,0
+A novel neural source code representation based on abstract syntax tree,ICSE '19,2019,2,1,0,0,0,0
+Graph embedding based familial analysis of Android malware using unsupervised learning,ICSE '19,2019,0,0,0,0,0,0
+Training binary classifiers as data structure invariants,ICSE '19,2019,0,0,0,0,0,0
+RESTler: stateful REST API fuzzing,ICSE '19,2019,1,0,0,0,0,0
+Grey-box concolic testing on binary code,ICSE '19,2019,2,1,0,0,0,0
+Superion: grammar-aware greybox fuzzing,ICSE '19,2019,2,0,0,0,0,0
+SLF: fuzzing without valid seed inputs,ICSE '19,2019,3,0,0,0,0,0
+Investigating the effects of gender bias on GitHub,ICSE '19,2019,2,0,0,0,0,0
+Going farther together: the impact of social capital on sustained participation in open source,ICSE '19,2019,6,0,0,0,0,0
+FLOSS participants' perceptions about gender and inclusiveness: a survey,ICSE '19,2019,0,0,0,0,0,0
+Class imbalance evolution and verification latency in just-in-time software defect prediction,ICSE '19,2019,0,0,0,0,0,0
+Mining software defects: should we consider affected releases?,ICSE '19,2019,1,1,1,0,0,0
+Parallel refinement for multi-threaded program verification,ICSE '19,2019,0,1,1,0,0,0
+Detecting atomicity violations for event-driven Node.js applications,ICSE '19,2019,0,0,0,0,0,0
+Safe automated refactoring for intelligent parallelization of Java 8 streams,ICSE '19,2019,2,1,0,0,0,0
+Statistical algorithmic profiling for randomized approximate programs,ICSE '19,2019,1,0,1,0,0,0
+StoryDroid: automated generation of storyboard for Android apps,ICSE '19,2019,4,0,0,0,0,0
+Investigating the impact of multiple dependency structures on software defects,ICSE '19,2019,0,0,0,0,0,0
+Could I have a stack trace to examine the dependency conflict issue?,ICSE '19,2019,1,0,0,0,0,0
+Detection and repair of architectural inconsistencies in Java,ICSE '19,2019,0,1,1,0,0,0
+Pattern-based mining of opinions in Q and A websites,ICSE '19,2019,1,0,0,0,0,0
+How reliable is the crowdsourced knowledge of security implementation?,ICSE '19,2019,2,0,0,0,0,0
+On reliability of patch correctness assessment,ICSE '19,2019,2,0,0,0,0,0
+VFix: value-flow-guided precise program repair for null pointer dereferences,ICSE '19,2019,2,0,1,0,0,0
+Rotten green tests,ICSE '19,2019,0,0,0,0,0,0
+Hunting for bugs in code coverage tools via randomized differential testing,ICSE '19,2019,1,0,0,0,0,0
+Tool choice matters: JavaScript quality assurance tools and usage outcomes in GitHub projects,ICSE '19,2019,1,0,0,0,0,0
+Do developers discover new tools on the toilet?,ICSE '19,2019,0,0,0,0,0,0
+Analysis and detection of information types of open source software issue discussions,ICSE '19,2019,1,1,0,0,0,0
+Supporting analysts by dynamic extraction and classification of requirements-related knowledge,ICSE '19,2019,1,0,0,0,0,0
+A framework for checking regression test selection tools,ICSE '19,2019,0,0,1,0,0,0
+Scalable approaches for test suite reduction,ICSE '19,2019,1,1,1,0,0,0
+FastLane: test minimization for rapidly deployed large-scale online services,ICSE '19,2019,1,0,0,0,0,0
+Distilling neural representations of data structure manipulation using fMRI and fNIRS,ICSE '19,2019,0,0,0,0,0,0
+Developer reading behavior while summarizing Java methods: size and context matters,ICSE '19,2019,4,1,1,0,0,0
+Latent patterns in activities: a field study of how developers manage context,ICSE '19,2019,0,0,0,0,0,0
+How C++ developers use immutability declarations: an empirical study,ICSE '19,2019,0,1,1,0,0,0
+ActionNet: vision-based workflow action recognition from programming screencasts,ICSE '19,2019,0,0,0,0,0,0
+BugSwarm: mining and continuously growing a dataset of reproducible failures and fixes,ICSE '19,2019,1,0,0,0,0,0
+DockerizeMe: automatic inference of environment dependencies for python code snippets,ICSE '19,2019,1,1,0,0,0,0
+Analyzing and supporting adaptation of online code examples,ICSE '19,2019,1,1,1,0,0,0
+NL2Type: inferring JavaScript function types from natural language information,ICSE '19,2019,2,1,1,0,0,0
+Active inductive logic programming for code search,ICSE '19,2019,1,1,1,0,0,0
+AutoTap: synthesizing and repairing trigger-action programs using LTL properties,ICSE '19,2019,3,1,1,0,0,0
+Practical GUI testing of Android applications via model abstraction and refinement,ICSE '19,2019,3,0,0,0,0,0
+IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps,ICSE '19,2019,1,0,0,0,0,0
+Mimic: UI compatibility testing system for Android apps,ICSE '19,2019,0,0,0,0,0,0
+Zero-overhead path prediction with progressive symbolic execution,ICSE '19,2019,0,1,0,0,0,0
+Towards understanding and reasoning about Android interoperations,ICSE '19,2019,0,0,0,0,0,0
+Easy modelling and verification of unpredictable and preemptive interrupt-driven systems,ICSE '19,2019,0,0,1,0,0,0
+The product backlog,ICSE '19,2019,1,1,0,0,0,0
+Automatically generating precise Oracles from structured natural language specifications,ICSE '19,2019,2,1,1,0,0,0
+DifFuzz: differential fuzzing for side-channel analysis,ICSE '19,2019,2,1,1,0,0,0
+The seven sins: security smells in infrastructure as code scripts,ICSE '19,2019,3,1,0,0,0,0
+Dlfinder: characterizing and detecting duplicate logging code smells,ICSE '19,2019,1,0,0,0,0,0
+Mining historical test logs to predict bugs and localize faults in the test logs,ICSE '19,2019,0,0,0,0,0,0
+ReCDroid: automatically reproducing Android application crashes from bug reports,ICSE '19,2019,1,1,1,0,0,0
+A system identification based Oracle for control-CPS software fault localization,ICSE '19,2019,0,0,0,0,0,0
+Automated reporting of anti-patterns and decay in continuous integration,ICSE '19,2019,2,1,1,0,0,0
+Resource-aware program analysis via online abstraction coarsening,ICSE '19,2019,1,0,0,0,0,0
+Reasonably-most-general clients for JavaScript library analysis,ICSE '19,2019,0,1,0,0,0,0
+Smoke: scalable path-sensitive memory leak detection for millions of lines of code,ICSE '19,2019,1,0,1,0,0,0
+Leopard: identifying vulnerable code for vulnerability assessment through program metrics,ICSE '19,2019,1,0,0,0,0,0
+Towards automating precision studies of clone detectors,ICSE '19,2019,0,1,1,0,0,0
+Natural software revisited,ICSE '19,2019,1,0,0,0,0,0
+On learning meaningful code changes via neural machine translation,ICSE '19,2019,4,0,0,0,0,0
+Harnessing evolution for multi-hunk program repair,ICSE '19,2019,1,0,0,0,0,0
+Learning to spot and refactor inconsistent method names,ICSE '19,2019,4,0,0,0,0,0
+GUI-guided repair of mobile test scripts,ICSE '19,2019,0,0,0,0,0,0
+Wok: statistical program slicing in production,ICSE '19,2019,0,0,0,0,0,0
+Deobfuscating Android native binary code,ICSE '19,2019,0,0,0,0,0,0
+Structural test coverage criteria for deep neural networks,ICSE '19,2019,1,0,0,0,0,0
+Mimicking user behavior to improve in-house test suites,ICSE '19,2019,0,0,0,0,0,0
+Localized or architectural: an empirical study of performance issues dichotomy,ICSE '19,2019,0,0,0,0,0,0
+Testing untestable neural machine translation: an industrial case,ICSE '19,2019,0,0,0,0,0,0
+Guiding testing effort using mutant utility,ICSE '19,2019,0,0,0,0,0,0
+Towards crowd-sourced API documentation,ICSE '19,2019,0,0,0,0,0,0
+Constructural software documentation,ICSE '19,2019,0,0,0,0,0,0
+Directives of communicability: teaching students how to improve communication through software modeling,ICSE '19,2019,0,0,0,0,0,0
+Software engineering studies attractiveness for the highly educated women planning to change career in Finland,ICSE '19,2019,0,0,0,0,0,0
+Towards visualizing large scale evolving clones,ICSE '19,2019,0,0,0,0,0,0
+Exploring customer influence on the agile transformation of service providers,ICSE '19,2019,0,0,0,0,0,0
+Beware of disengaged user acceptance in testing software-as-a-service,ICSE '19,2019,0,0,0,0,0,0
+Leveraging contextual information from function call chains to improve fault localization,ICSE '19,2019,0,0,0,0,0,0
+Analyzing and repairing compilation errors,ICSE '19,2019,1,0,0,0,0,0
+Industry trends in software engineering education: a systematic mapping study,ICSE '19,2019,1,0,0,0,0,0
+Automatically reconstructing car crashes from police reports for testing self-driving cars,ICSE '19,2019,0,0,0,0,0,0
+Optimal MC/DC test case generation,ICSE '19,2019,0,0,0,0,0,0
+Enhancing precision of structured merge by proper tree matching,ICSE '19,2019,0,0,0,0,0,0
+A decentralized application for fostering biodiversity: opportunities and challenges,ICSE '19,2019,0,0,0,0,0,0
+Symbolic execution for attribution and attack synthesis in neural networks,ICSE '19,2019,0,0,0,0,0,0
+Immutable log storage as a service,ICSE '19,2019,1,0,0,0,0,0
+fAST: flattening abstract syntax trees for efficiency,ICSE '19,2019,1,0,0,0,0,0
+A grading schema for reinforcing teamwork quality in a capstone course,ICSE '19,2019,0,0,0,0,0,0
+Recommending unnecessary source code based on static analysis: poster,ICSE '19,2019,0,0,0,0,0,0
+On the deterioration of learning-based malware detectors for Android,ICSE '19,2019,2,0,0,0,0,0
+Energy distribution matters in greybox fuzzing,ICSE '19,2019,1,0,0,0,0,0
+Good-bye localhost: a cloud-based web IDE for teaching Java EE web development to non-computer science majors,ICSE '19,2019,0,0,0,0,0,0
+Validity fuzzing and parametric generators for effective random testing,ICSE '19,2019,1,0,0,0,0,0
+Demand-driven refinement of points-to analysis,ICSE '19,2019,0,0,0,0,0,0
+Studies on the software testing profession,ICSE '19,2019,0,0,0,0,0,0
+Evaluation of feature selection for anomaly detection in automotive E/E architectures,ICSE '19,2019,0,0,0,0,0,0
+Comparing the popularity of testing careers among Canadian Chinese and Indian students,ICSE '19,2019,0,0,0,0,0,0
+A data-driven security game to facilitate information security education,ICSE '19,2019,0,0,0,0,0,0
+Quantifying patterns and programming strategies in block-based programming environments,ICSE '19,2019,0,0,0,0,0,0
+A winning team: what personality has to do with software engineering,ICSE '19,2019,0,0,0,0,0,0
+Incorporating real projects into a software engineering undergraduate curriculum,ICSE '19,2019,0,0,0,0,0,0
+Carving parameterized unit tests,ICSE '19,2019,0,0,0,0,0,0
+When software development meets the shopfloor: the case of industrial fablabs,ICSE '19,2019,0,0,0,0,0,0
+Optimizing seed inputs in fuzzing with machine learning,ICSE '19,2019,0,0,0,0,0,0
+Supervised tie breaking in test case prioritization,ICSE '19,2019,0,0,0,0,0,0
+An empirical study on female participation in software project courses,ICSE '19,2019,0,0,0,0,0,0
+Dynamic unit test extraction via time travel debugging for test cost reduction,ICSE '19,2019,0,0,0,0,0,0
+FastDroid: efficient taint analysis for Android applications,ICSE '19,2019,0,0,0,0,0,0
+Confidence in programming skills: gender insights from StackOverflow developers survey,ICSE '19,2019,0,0,0,0,0,0
+How are design patterns concerned by developers?,ICSE '19,2019,0,0,0,0,0,0
+Divide and conquer: recovering contextual information of behaviors in Android apps around limited-quantity audit logs,ICSE '19,2019,0,0,0,0,0,0
+Supporting code search with context-aware analytics-driven effective query reformulation,ICSE '19,2019,0,0,0,0,0,0
+Automated fine-grained requirements-to-code traceability link recovery,ICSE '19,2019,0,0,0,0,0,0
+Mobile-app analysis and instrumentation techniques reimagined with ,ICSE '19,2019,0,0,0,0,0,0
+An artificial intelligence-based model-driven approach for exposing off-nominal behaviors,ICSE '19,2019,0,0,0,0,0,0
+Towards a more reliable interpretation of defect models,ICSE '19,2019,0,0,0,0,0,0
+Stuck in the middle: removing obstacles to new program features through batch refactoring,ICSE '19,2019,0,0,0,0,0,0
+Digital nudges for encouraging developer actions,ICSE '19,2019,0,0,0,0,0,0
+Feedback in scrum: data-informed retrospectives,ICSE '19,2019,0,0,0,0,0,0
+Improving the software logging practices in DevOps,ICSE '19,2019,0,0,0,0,0,0
+Detecting understanding and resolving build and test conflicts,ICSE '19,2019,0,0,0,0,0,0
+INDIRECT: intent-driven requirements-to-code traceability,ICSE '19,2019,0,0,0,0,0,0
+Supporting the acquisition of programming skills with program construction patterns,ICSE '19,2019,0,0,0,0,0,0
+SReYantra: automated software requirement inter-dependencies elicitation analysis and learning,ICSE '19,2019,0,0,0,0,0,0
+Effects of automated static analysis tools: a multidimensional view on quality evolution,ICSE '19,2019,0,0,0,0,0,0
+Finding and using design information in discussions,ICSE '19,2019,0,0,0,0,0,0
+Towards just-in-time rational refactoring,ICSE '19,2019,0,0,0,0,0,0
+Impact of lifestyle and working process organization on the job satisfaction level of software engineers,ICSE '19,2019,0,0,0,0,0,0
+TOAD: a tool for recommending auto-refactoring alternatives,ICSE '19,2019,0,0,0,0,0,0
+Identifying developers by their application usage,ICSE '19,2019,0,0,0,0,0,0
+JSOptimizer: an extensible framework for JavaScript program optimization,ICSE '19,2019,0,0,0,0,0,0
+A systematic evaluation of problematic tests generated by EvoSuite,ICSE '19,2019,0,0,0,0,0,0
+Property oriented verification via iterative abstract interpretation,ICSE '19,2019,0,0,0,0,0,0
+Improving automated program repair with retrospective fault localization,ICSE '19,2019,0,0,0,0,0,0
+Configuration-dependent fault localization,ICSE '19,2019,0,0,0,0,0,0
+Toward detection and characterization of variability bugs in configurable C software: an empirical study,ICSE '19,2019,0,0,0,0,0,0
+Agile process improvement in retrospectives,ICSE '19,2019,0,0,0,0,0,0
+Characterizing and detecting duplicate logging code smells,ICSE '19,2019,0,0,0,0,0,0
+Finding concurrency exploits on smart contracts,ICSE '19,2019,0,0,0,0,0,0
+Android GUI search using hand-drawn sketches,ICSE '19,2019,0,0,0,0,0,0
+Guided automated testing of blockchain-based decentralized applications,ICSE '19,2019,0,0,0,0,0,0
+Release synchronization in software ecosystems,ICSE '19,2019,0,0,0,0,0,0
+Visually identifying potential sensitive information leaks in access-controlled data services,ICSE '19,2019,0,0,0,0,0,0
+Marvel: a generic scalable and effective vulnerability detection platform,ICSE '19,2019,0,0,0,0,0,0
+An empirical study on leveraging logs for debugging production failures,ICSE '19,2019,0,0,0,0,0,0
+Towards zero knowledge learning for cross language API mappings,ICSE '19,2019,1,0,0,0,0,0
+MULAPI: a tool for API method and usage location recommendation,ICSE '19,2019,0,0,0,0,0,0
+DRONE: a tool to detect and repair directive defects in Java APIs documentation,ICSE '19,2019,0,0,0,0,0,0
+DeepConcolic: testing and debugging deep neural networks,ICSE '19,2019,1,0,0,0,0,0
+Visual debugging of behavioural models,ICSE '19,2019,0,0,0,0,0,0
+ARepair: a repair framework for alloy,ICSE '19,2019,0,0,0,0,0,0
+PsALM: specification of dependable robotic missions,ICSE '19,2019,1,0,0,0,0,0
+Git-based integrated uncertainty manager,ICSE '19,2019,0,0,0,0,0,0
+Vetting API usages in C programs with IMChecker,ICSE '19,2019,0,0,0,0,0,0
+xLineMapper: a product line feature-architecture-implementation mapping toolset,ICSE '19,2019,0,0,0,0,0,0
+PatchNet: a tool for deep patch classification,ICSE '19,2019,0,0,0,0,0,0
+Coming: a tool for mining change pattern instances from git commits,ICSE '19,2019,0,0,0,0,0,0
+SWORD: a scalable whole program race detector for Java,ICSE '19,2019,0,0,0,0,0,0
+Guigle: a GUI search engine for Android apps,ICSE '19,2019,1,0,0,0,0,0
+ENRE: a tool framework for extensible eNtity relation extraction,ICSE '19,2019,0,0,0,0,0,0
+Witt: querying technology terms based on automated classification,ICSE '19,2019,0,0,0,0,0,0
+RM2PT: a tool for automated prototype generation from requirements model,ICSE '19,2019,0,0,0,0,0,0
+MCP: a security testing tool driven by requirements,ICSE '19,2019,0,0,0,0,0,0
+SortingHat: wizardry on software project members,ICSE '19,2019,0,0,0,0,0,0
+Defexts: a curated dataset of reproducible real-world bugs for modern JVM languages,ICSE '19,2019,1,0,0,0,0,0
+Viatra solver: a framework for the automated generation of consistent domain-specific models,ICSE '19,2019,0,0,0,0,0,0
+Mockingbird: a framework for enabling targeted dynamic analysis of Java programs,ICSE '19,2019,0,0,0,0,0,0
+ALPACA: a large portfolio-based alternating conditional analysis,ICSE '19,2019,0,0,0,0,0,0
+AC3R: automatically reconstructing car crashes from police reports,ICSE '19,2019,1,0,0,0,0,0
+AsFault: testing self-driving car software using search-based procedural content generation,ICSE '19,2019,1,0,0,0,0,0
+EasyFlow: keep ethereum away from overflow,ICSE '19,2019,2,0,0,0,0,0
+IoT composer: composition and deployment of IoT applications,ICSE '19,2019,2,0,0,0,0,0
+VeDebug: regression debugging tool for Java,ICSE '19,2019,0,0,0,0,0,0
+SMT-based refutation of spurious bug reports in the clang static analyzer,ICSE '19,2019,0,0,0,0,0,0
+Developing games that capture and engage users,ICSE '19,2019,0,0,0,0,0,0
+Software engineering for automated vehicles: addressing the needs of cars that run on software and data,ICSE '19,2019,0,0,0,0,0,0
+AIOps: real-world challenges and research innovations,ICSE '19,2019,0,0,0,0,0,0
+Analyzing flow to measure value in software delivery,ICSE '19,2019,0,0,0,0,0,0
+Publish or perish: questioning the impact of our research on the software developer,ICSE '19,2019,1,0,0,0,0,0
+Managing variation: an industrial perspective on product line engineering,ICSE '19,2019,0,0,0,0,0,0
+Implementation science for software engineering: bridging the gap between research and practice (keynote),ASE 2018,2018,0,0,0,0,0,0
+The need for context in software engineering (IEEE CS Harlan Mills award keynote),ASE 2018,2018,2,0,0,0,0,0
+Automated requirements engineering challenges with examples from small unmanned aerial systems (keynote),ASE 2018,2018,0,0,0,0,0,0
+Software heritage: collecting preserving and sharing all our source code (keynote),ASE 2018,2018,0,0,0,0,0,0
+Automatically quantifying the impact of a change in systems (journal-first abstract),ASE 2018,2018,0,0,0,0,0,0
+Understanding Semi-structured merge conflict characteristics in open-source Java projects (journal-first abstract),ASE 2018,2018,1,0,0,0,0,0
+Estimating the number of remaining links in traceability recovery (journal-first abstract),ASE 2018,2018,0,0,0,0,0,0
+Bounded model checking of C++ programs based on the Qt cross-platform framework (journal-first abstract),ASE 2018,2018,0,0,0,0,0,0
+A DSL for requirements in the context of a seamless approach,ASE 2018,2018,0,0,0,0,0,0
+Differential program analysis with fuzzing and symbolic execution,ASE 2018,2018,0,0,0,0,0,0
+Top-down model-driven engineering of web services from extended OpenAPI models,ASE 2018,2018,0,0,0,0,0,0
+A multi-objective framework for effective performance fault injection in distributed systems,ASE 2018,2018,0,0,0,0,0,0
+Software engineering techniques applied to relational databases,ASE 2018,2018,0,0,0,0,0,0
+Towards automatic restrictification of CUDA kernel arguments,ASE 2018,2018,0,0,0,0,0,0
+Automatic mining of constraints for monitoring systems of systems,ASE 2018,2018,1,0,0,0,0,0
+Assessing and evaluating functional suitability of software,ASE 2018,2018,0,0,0,0,0,0
+An empirical investigation into learning bug-fixing patches in the wild via neural machine translation,ASE 2018,2018,10,0,0,0,0,0
+Loop path reduction by state pruning,ASE 2018,2018,0,0,0,0,0,0
+Delta debugging microservice systems,ASE 2018,2018,1,0,0,0,0,0
+Continuous code quality: are we (really) doing that?,ASE 2018,2018,6,0,0,0,0,0
+S-gram: towards semantic-aware security auditing for Ethereum smart contracts,ASE 2018,2018,8,0,0,0,0,0
+Towards automating disambiguation of regulations: using the wisdom of crowds,ASE 2018,2018,1,0,0,0,0,0
+code_call_lens: raising the developer awareness of critical code,ASE 2018,2018,0,0,0,0,0,0
+L-CMP: an automatic learning-based parameterized verification tool,ASE 2018,2018,0,0,0,0,0,0
+Lightweight source code monitoring with Triggr,ASE 2018,2018,1,0,0,0,0,0
+CANAL: a cache timing analysis framework via LLVM transformation,ASE 2018,2018,7,0,0,0,0,0
+Code2graph: automatic generation of static call graphs for Python source code,ASE 2018,2018,5,0,0,0,0,0
+Live versioning of web applications through refactoring,ASE 2018,2018,1,0,0,0,0,0
+SRCIROR: a toolset for mutation testing of C source code and LLVM intermediate representation,ASE 2018,2018,2,0,0,0,0,0
+ESBMC 5.0: an industrial-strength C model checker,ASE 2018,2018,13,0,0,0,0,0
+VulSeeker: a semantic learning based vulnerability seeker for cross-platform binary,ASE 2018,2018,5,0,0,0,0,0
+DroidMate-2: a platform for Android test generation,ASE 2018,2018,3,1,0,0,0,0
+CPA-SymExec: efficient symbolic execution in CPAchecker,ASE 2018,2018,1,1,0,0,0,0
+OCELOT: a search-based test-data generation tool for C,ASE 2018,2018,0,0,0,0,0,0
+DKVF: a framework for rapid prototyping and evaluating distributed key-value stores,ASE 2018,2018,2,0,0,0,0,0
+The electrum analyzer: model checking relational first-order temporal specifications,ASE 2018,2018,2,0,0,0,0,0
+Descartes: a PITest engine to detect pseudo-tested methods: tool demonstration,ASE 2018,2018,2,0,0,0,0,0
+jStanley: placing a green thumb on Java collections,ASE 2018,2018,4,0,0,0,0,0
+Personalized teammate recommendation for crowdsourced software developers,ASE 2018,2018,1,0,0,0,0,0
+A neural framework for retrieval and summarization of source code,ASE 2018,2018,7,0,0,0,0,0
+RUDSEA: recommending updates of Dockerfiles via software environment analysis,ASE 2018,2018,8,0,0,0,0,0
+node2defect: using network embedding to improve software defect prediction,ASE 2018,2018,0,0,0,0,0,0
+An evolutionary approach for analyzing Alloy specifications,ASE 2018,2018,3,0,0,0,0,0
+Experiences applying automated architecture analysis tool suites,ASE 2018,2018,4,0,0,0,0,0
+Navigating the maze: the impact of configurability in bioinformatics software,ASE 2018,2018,3,0,0,0,0,0
+An empirical study of Android test generation tools in industrial cases,ASE 2018,2018,11,0,0,0,0,0
+Automatically testing implementations of numerical abstract domains,ASE 2018,2018,4,0,0,0,0,0
+Achieving test automation with testers without coding skills: an industrial report,ASE 2018,2018,0,0,0,0,0,0
+Template-guided concolic testing via online learning,ASE 2018,2018,2,0,0,0,0,0
+A unified lattice model and framework for purity analyses,ASE 2018,2018,1,0,0,0,0,0
+Android testing via synthetic symbolic execution,ASE 2018,2018,4,0,0,0,0,0
+Effectiveness and challenges in generating concurrent tests for thread-safe classes,ASE 2018,2018,4,0,0,0,0,0
+Scheduling constraint based abstraction refinement for weak memory models,ASE 2018,2018,1,0,0,0,0,0
+Expandable group identification in spreadsheets,ASE 2018,2018,7,0,0,0,0,0
+Dual-force: understanding WebView malware via cross-language forced execution,ASE 2018,2018,1,0,0,0,0,0
+A genetic algorithm for goal-conflict identification,ASE 2018,2018,0,0,0,0,0,0
+ClDiff: generating concise linked code differences,ASE 2018,2018,7,0,0,0,0,0
+Control flow-guided SMT solving for program verification,ASE 2018,2018,3,0,0,0,0,0
+Reducing interactive refactoring effort via clustering-based multi-objective search,ASE 2018,2018,4,0,0,0,0,0
+Effective API recommendation without historical software repositories,ASE 2018,2018,3,0,0,0,0,0
+Empirically assessing opportunities for prefetching and caching in mobile apps,ASE 2018,2018,2,0,0,0,0,0
+An automated approach to estimating code coverage measures via execution logs,ASE 2018,2018,7,0,0,0,0,0
+How many of all bugs do we find? a study of static bug detectors,ASE 2018,2018,2,0,0,0,0,0
+Is this class thread-safe? inferring documentation using graph-based learning,ASE 2018,2018,2,0,0,0,0,0
+Datalog-based scalable semantic diffing of concurrent programs,ASE 2018,2018,3,0,0,0,0,0
+PaMpeR: proof method recommendation system for Isabelle/HOL,ASE 2018,2018,4,0,0,0,0,0
+Tell them apart: distilling technology differences from crowd-scale comparison discussions,ASE 2018,2018,3,0,0,0,0,0
+Self-protection of Android systems from inter-component communication attacks,ASE 2018,2018,3,0,0,0,0,0
+Improving automatic source code summarization via deep reinforcement learning,ASE 2018,2018,10,0,0,0,0,0
+PerfLearner: learning from bug reports to understand and generate performance test frames,ASE 2018,2018,7,0,0,0,0,0
+Detecting and summarizing GUI changes in evolving mobile apps,ASE 2018,2018,4,0,0,0,0,0
+DeepGauge: multi-granularity testing criteria for deep learning systems,ASE 2018,2018,42,0,0,0,0,0
+Tackling combinatorial explosion: a study of industrial needs and practices for analyzing highly configurable systems,ASE 2018,2018,10,0,0,0,0,0
+Semantic crash bucketing,ASE 2018,2018,7,0,0,0,0,0
+αDiff: cross-version binary code similarity detection with DNN,ASE 2018,2018,3,0,0,0,0,0
+PFix: fixing concurrency bugs based on memory access patterns,ASE 2018,2018,5,0,0,0,0,0
+On adopting linters to deal with performance concerns in Android apps,ASE 2018,2018,6,1,0,0,0,0
+Scalable incremental building with dynamic task dependencies,ASE 2018,2018,0,0,0,0,0,0
+Domain-independent multi-threaded software model checking,ASE 2018,2018,1,1,0,0,0,0
+Generating reusable web components from mockups,ASE 2018,2018,2,0,0,0,0,0
+Characterizing the natural language descriptions in software logging statements,ASE 2018,2018,9,0,0,0,0,0
+Testing autonomous cars for feature interaction failures using many-objective search,ASE 2018,2018,12,0,0,0,0,0
+API method recommendation without worrying about the task-API knowledge gap,ASE 2018,2018,12,0,0,0,0,0
+Neural-machine-translation-based commit message generation: how far are we?,ASE 2018,2018,11,0,0,0,0,0
+A symbolic model checking approach to the analysis of string and length constraints,ASE 2018,2018,1,0,0,0,0,0
+TDroid: exposing app switching attacks in Android with control flow specialization,ASE 2018,2018,3,0,0,0,0,0
+DeepRoad: GAN-based metamorphic testing and input validation framework for autonomous driving systems,ASE 2018,2018,31,0,0,0,0,0
+Replay without recording of production bugs for service oriented applications,ASE 2018,2018,1,0,0,0,0,0
+Understanding and detecting evolution-induced compatibility issues in Android apps,ASE 2018,2018,7,0,0,0,0,0
+A large-scale study of test coverage evolution,ASE 2018,2018,10,0,0,0,0,0
+SEEDE: simultaneous execution and editing in a development environment,ASE 2018,2018,1,0,0,0,0,0
+Understanding and detecting callback compatibility issues for Android applications,ASE 2018,2018,2,0,0,0,0,0
+A tale of two cities: how WebView induces bugs to Android applications,ASE 2018,2018,5,0,0,0,0,0
+PARTI: a multi-interval theory solver for symbolic execution,ASE 2018,2018,2,0,0,0,0,0
+Client-specific equivalence checking,ASE 2018,2018,2,0,0,0,0,0
+ContractFuzzer: fuzzing smart contracts for vulnerability detection,ASE 2018,2018,38,1,0,0,0,0
+FairFuzz: a targeted mutation strategy for increasing greybox fuzz testing coverage,ASE 2018,2018,29,0,0,0,0,0
+AutoConfig: automatic configuration tuning for distributed message systems,ASE 2018,2018,4,0,0,0,0,0
+Safe stream-based programming with refinement types,ASE 2018,2018,2,0,0,0,0,0
+Assessing the type annotation burden,ASE 2018,2018,1,0,0,0,0,0
+Concolic testing for deep neural networks,ASE 2018,2018,30,0,0,0,0,0
+Noise and heterogeneity in historical build data: an empirical study of Travis CI,ASE 2018,2018,6,0,0,0,0,0
+Efficiently manifesting asynchronous programming errors in Android apps,ASE 2018,2018,9,0,0,0,0,0
+Mining file histories: should we consider branches?,ASE 2018,2018,6,0,0,0,0,0
+Model-driven run-time enforcement of complex role-based access control policies,ASE 2018,2018,1,0,0,0,0,0
+Deep learning based feature envy detection,ASE 2018,2018,8,0,0,0,0,0
+Automated directed fairness testing,ASE 2018,2018,5,0,0,0,0,0
+Characterizing and identifying misexposed activities in Android applications,ASE 2018,2018,2,0,0,0,0,0
+Break the dead end of dynamic slicing: localizing data and control omission bug,ASE 2018,2018,4,0,0,0,0,0
+Automated model repair for Alloy,ASE 2018,2018,5,0,0,0,0,0
+TRIMMER: application specialization for code debloating,ASE 2018,2018,13,0,0,0,0,0
+ReScue: crafting regular expression DoS attacks,ASE 2018,2018,5,0,0,0,0,0
